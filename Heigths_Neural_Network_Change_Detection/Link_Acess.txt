@@ -1,0 +1,11 @@
+Modelo acessado em 30/03/2026 no link:
+
+https://github.com/SebastianHafner/SemiSupervisedMultiModalCD
+
+Link direto para download:
+
+https://drive.google.com/file/d/1F2YGSiXeQ801VOT94FCZqxU618j6D3tO/view?usp=drive_link
+
+Créditos:
+
+Hafner, S., Ban, Y. and Nascetti, A., 2023. Semi-Supervised Urban Change Detection Using Multi-Modal Sentinel-1 SAR and Sentinel-2 MSI Data. Remote Sensing, 15(21), p.5135.
